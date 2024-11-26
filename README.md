@@ -41,7 +41,7 @@ The College Management System is a MERN Stack-based system with three different 
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone   https://github.com/karansarda121/college_management_system.git
    ```
 
 2. **Install dependencies:**
