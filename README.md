@@ -54,8 +54,18 @@ The College Management System is a MERN Stack-based system with three different 
    ```
 
 3. **Setup environment variables:**
+4. 
+  - ## In frontend
+   .env   
+      REACT_APP_APILINK = http://localhost:5000/api
+       REACT_APP_MEDIA_LINK = http://localhost:5000/media
 
-  - I have provided .env.sample in both frontend and backend using that create .env file
+  - ## In backend
+  .env
+   MONGODB_URI =mongodb+srv://20ucs093:123456karan@cluster0.xsrq2e6.mongodb.net/? 
+    retryWrites=true&w=majority&appName=Cluster0
+   PORT = 5000
+   FRONTEND_API_LINK = http://localhost:3000
 
 4. **Run the admin seeder:**
 
